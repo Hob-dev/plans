@@ -1,6 +1,13 @@
 + = Objectives
 - = Completed 
 
+Main Quest: 
+N.A.V.I. (Neuro-Augmented Volitional Input) BCI System
+
+Fun Goals: 
+Final Fantasy XV on a maxed out rig
+VR + Hytale (for fun)
+
 (Current) Mission: Learn Deep Learning Terminology, CNN, Torch -> TF (TFLite) 
 -> train and deploy classifier onto BCI
 
