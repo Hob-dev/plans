@@ -1,5 +1,15 @@
++ = Objectives
+- = Completed 
+
+(Current) Mission: Learn Deep Learning Terminology, CNN, Torch -> TF (TFLite) 
+-> train and deploy classifier onto BCI
 
 =========
 1/19/2026
 =========
+  
++ Elementary Analysis HW 1
++ Applied Numerical Methods HW 1
++ CS231n Lecture 4
++ Two-Layer-NN Implementation
 
