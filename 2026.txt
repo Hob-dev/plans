@@ -4,7 +4,10 @@
 Main Quest: 
 N.A.V.I. (Neuro-Augmented Volitional Input) BCI System
 
-Fun Goals: 
+Fun Goals:
+NixOS
+NVIM
+Deadlock Eternus
 Final Fantasy XV on a maxed out rig
 VR + Hytale (for fun)
 
@@ -15,8 +18,17 @@ VR + Hytale (for fun)
 1/19/2026
 =========
   
-+ Elementary Analysis HW 1
-+ Applied Numerical Methods HW 1
-+ CS231n Lecture 4
-+ Two-Layer-NN Implementation
+- Elementary Analysis HW 1
+- Applied Numerical Methods HW 1
+- CS231n Lecture 4
+-(?) Two-Layer-NN Implementation
 
+=========
+1/27/2026
+=========
+
++ PIC10B HW 1
++ Applied Numerical Methods HW 2
++ Study Diff Eq.
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
