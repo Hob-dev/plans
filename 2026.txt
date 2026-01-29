@@ -1,6 +1,9 @@
 + = Objectives
 - = Completed 
 
+Important:
+Notes - try to contextualize lectures in notes of some sort
+
 Main Quest: 
 N.A.V.I. (Neuro-Augmented Volitional Input) BCI System
 
@@ -28,7 +31,18 @@ VR + Hytale (for fun)
 =========
 
 + PIC10B HW 1
-+ Applied Numerical Methods HW 2
+- Applied Numerical Methods HW 2
++ Study Diff Eq.
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
+
+=========
+1/29/2026
+=========
+
++ PIC10B HW 1 && PIC10B HW 2
++ Study Applied Numerical Methods
++ Study Real Analysis
 + Study Diff Eq.
 + Check Two-Layer-NN Implementation
 + CS231n Lecture 5
