@@ -9,8 +9,9 @@ N.A.V.I. (Neuro-Augmented Volitional Input) BCI System
 
 Fun Goals:
 NixOS
-NVIM
-Deadlock Eternus
+NVIM (mby, mby not)
+OverTheWire (and more unix/bash skills)
+Deadlock Eternus (Current: Phantom 1 WR: 80%)
 Final Fantasy XV on a maxed out rig
 VR + Hytale (for fun)
 
@@ -41,8 +42,52 @@ VR + Hytale (for fun)
 =========
 
 + PIC10B HW 1 && PIC10B HW 2
-+ Study Applied Numerical Methods
+- Study Applied Numerical Methods
 + Study Real Analysis
 + Study Diff Eq.
 + Check Two-Layer-NN Implementation
 + CS231n Lecture 5
+
+=========
+1/30/2026
+=========
+
++- PIC10B HW 1
++ PIC10B HW 2
+- Study Applied Numerical Methods Part 2 (Part 1-ish)
++ Study Real Analysis
++ Differential Equations HW 1 
++ Differential Equations HW 2
+- Diff EQ lecture
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
+
+=========
+1/31/2026
+=========
+
+- PIC10B HW 1
++ PIC10B HW 2
+- Study Diff EQ 
+- Differential Equations HW 1 
+- Differential Equations HW 2
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
+
+====================
+2/1/2026 to 2/3/2026 
+====================
+
+-studying for exams
+-taking exams
+
+=========
+2/4/2026
+=========
+
++ Applied Numerical Methods HW 2
++ Study Applied Numerical Methods
++ PIC10B HW 2
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
++ Talk to Julian
