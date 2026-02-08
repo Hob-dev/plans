@@ -11,7 +11,7 @@ Fun Goals:
 NixOS
 NVIM (mby, mby not)
 OverTheWire (and more unix/bash skills)
-Deadlock Eternus (Current: Phantom 1 WR: 80%)
+Deadlock Eternus (Current: Phantom 4 WR: 80%)
 Final Fantasy XV on a maxed out rig
 VR + Hytale (for fun)
 
@@ -85,9 +85,30 @@ VR + Hytale (for fun)
 2/4/2026
 =========
 
-+ Applied Numerical Methods HW 2
+- Applied Numerical Methods HW 2
 + Study Applied Numerical Methods
 + PIC10B HW 2
 + Check Two-Layer-NN Implementation
 + CS231n Lecture 5
 + Talk to Julian
+
+=========
+2/5/2026
+=========
+
+- Study Applied Numerical Methods
+- PIC10B HW 2
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
+- Talk to Julian
+
+=========
+2/8/2026
+=========
+
++ Real Analysis HW 4
++ PIC10B Quizzes
++ Talk to Julian
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
++ Start Journal -> + Write Day 2/8/2026
