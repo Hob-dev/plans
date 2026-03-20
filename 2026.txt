@@ -1,6 +1,13 @@
 + = Objectives
 - = Completed 
 
+23962.5
+
+How To Learn:
+When reading from textbook or from any source then READ AND TAKE IN AS FAST AS POSSIBLE. those who take in the concepts faster, understand the concepts better: this wisdom beats the intuition.
+15 focused minutes == 90 minutes of lazy learning
+
+
 Important:
 Notes - try to contextualize lectures in notes of some sort
 
@@ -107,8 +114,34 @@ VR + Hytale (for fun)
 =========
 
 + Real Analysis HW 4
-+ PIC10B Quizzes
+- PIC10B Quizzes
 + Talk to Julian
 + Check Two-Layer-NN Implementation
 + CS231n Lecture 5
 + Start Journal -> + Write Day 2/8/2026
+
+=========
+2/11/2026
+=========
+
++ Real Analysis HW 4
++ Talk to Julian
++ Check Two-Layer-NN Implementation
++ CS231n Lecture 5
++ Start Journal -> + Write Day 2/11/2026
+
+=========
+2/16/2026
+=========
+
++ Real Analysis HW 5, 6
++ Study Real Analysis
+
+=========
+2/18/2026
+=========
+
+- Real Analysis HW 8
+- Study Real Analysis
+- PIC10B assignment
+- Diff EQ HW
