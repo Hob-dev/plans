@@ -18,7 +18,7 @@ Fun Goals:
 NixOS
 NVIM (mby, mby not)
 OverTheWire (and more unix/bash skills)
-Deadlock Eternus (Current: Phantom 4 WR: 80%)
+Deadlock Eternus (Current: Ascendant 2 WR: 80%)
 Final Fantasy XV on a maxed out rig
 VR + Hytale (for fun)
 
