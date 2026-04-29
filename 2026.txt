@@ -145,3 +145,23 @@ VR + Hytale (for fun)
 - Study Real Analysis
 - PIC10B assignment
 - Diff EQ HW
+
+=========
+4/16/2026
+=========
+
+- open source all kb designs
++ open source old EMG Wristband device
+- check hw
++ research new design for EMG?
+
+=========
+4/29/2026
+=========
+
+- we are so back
++ Update kb design repo readmes
++ Complex Analysis studying (exam in 2 days)
++ Linear Algebra Studying for quiz
++ Go to class
++ Open source EMG wristband
